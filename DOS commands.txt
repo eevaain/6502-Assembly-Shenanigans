@@ -1,0 +1,5 @@
+vasm6502_oldstyle -Fbin -dotdir blink.asm
+
+-Fbin is simple binary output module
+
+-dotdir -> directives have to be preceded with a dot?
